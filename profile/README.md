@@ -1,46 +1,41 @@
 <p align="center">
-  <img src="https://github.com/OnyxLabs-org.png" width="96" alt="ONYX Labs logo" />
-</p>
-
-<h1 align="center">ONYX Labs</h1>
-
-<p align="center">
-  <b>To make usual things better.</b><br/>
-  Independent software studio based in New York.
+  <a href="https://onyxlabs.tech"><img src="./assets/hero.svg" width="100%" alt="ONYX Labs. To make usual things better. Independent software studio, New York City." /></a>
 </p>
 
 <p align="center">
-  <a href="https://onyxlabs.tech">Website</a> ·
-  <a href="https://www.linkedin.com/company/onyxlabstech">LinkedIn</a> ·
-  <a href="mailto:sales@onyxlabs.tech">sales@onyxlabs.tech</a>
+  <a href="https://onyxlabs.tech"><img src="https://img.shields.io/badge/onyxlabs.tech-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=8BE100" alt="Website" /></a>
+  <a href="https://www.linkedin.com/company/onyxlabstech"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" alt="LinkedIn" /></a>
+  <a href="mailto:sales@onyxlabs.tech"><img src="https://img.shields.io/badge/sales@onyxlabs.tech-0A0A0F?style=for-the-badge&logo=minutemailer&logoColor=FF5C8A" alt="Email" /></a>
 </p>
 
----
+<br/>
 
-## About us
+<img src="./assets/h-products.svg" width="100%" alt="01 / Products we build and run" />
 
-ONYX Labs designs, builds and ships web and mobile software. We run our own consumer products and build custom software for clients, from first prototype to production and ongoing support.
+<p align="center">
+  <a href="https://biteme.food"><img src="./assets/card-biteme.svg" width="49%" alt="Biteme: learn nutrition like a game" /></a>
+  <a href="https://sparkum.net"><img src="./assets/card-sparkum.svg" width="49%" alt="Sparkum: social media planning made simple" /></a>
+</p>
 
-## Products
+<img src="./assets/h-clients.svg" width="100%" alt="02 / Client work" />
 
-| Product | What it is |
-| --- | --- |
-| **[Biteme](https://biteme.food)** | A Duolingo-style learning app for nutrition. Short lessons on a themed world map, guided by Belly. iOS + web. |
-| **Sparkum** | Social media management for creators and small teams. |
+<p align="center">
+  <a href="mailto:sales@onyxlabs.tech?subject=LifeLines%20demo"><img src="./assets/card-lifelines.svg" width="49%" alt="LifeLines: HIPAA-compliant CRM for Remote Patient Monitoring. Demo on request." /></a>
+  <a href="https://floodalert360.com"><img src="./assets/card-floodalert.svg" width="49%" alt="FloodAlert360: cellular water and freeze sensor platform" /></a>
+</p>
+<p align="center">
+  <a href="https://cataloniaplates.com"><img src="./assets/card-catalonia.svg" width="49%" alt="Catalonia Plates: e-commerce for Pordamsa tableware in North America" /></a>
+  <a href="mailto:sales@onyxlabs.tech?subject=New%20project"><img src="./assets/card-yours.svg" width="49%" alt="Your project? Tell us what you want to build." /></a>
+</p>
 
-## Client work
+<img src="./assets/h-services.svg" width="100%" alt="03 / What we do" />
 
-| Project | What it is |
-| --- | --- |
-| **LifeLines** | A HIPAA-compliant CRM for Remote Patient Monitoring (RPM) practices, built for a healthcare client. Demo available on request. |
+<p align="center">
+  <img src="./assets/services.svg" width="100%" alt="Web apps, mobile apps, backend and APIs, AI features" />
+</p>
 
-## What we do
+<br/>
 
-- Web apps and dashboards
-- iOS and cross-platform mobile apps
-- Backend APIs, integrations and cloud infrastructure
-- AI features built into real products
-
-## Work with us
-
-Have a project in mind? Email **[sales@onyxlabs.tech](mailto:sales@onyxlabs.tech)** or visit **[onyxlabs.tech](https://onyxlabs.tech)**.
+<p align="center">
+  <a href="mailto:sales@onyxlabs.tech"><img src="./assets/footer.svg" width="100%" alt="Let's build something. sales@onyxlabs.tech" /></a>
+</p>
