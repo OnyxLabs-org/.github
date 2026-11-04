@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://onyxlabs.tech"><img src="./assets/hero.svg" width="100%" alt="ONYX Labs. To make usual things better. Independent software studio, New York City." /></a>
+  <a href="https://onyxlabs.tech"><img src="./assets/hero.svg?v=3" width="100%" alt="ONYX Labs. To make usual things better. Independent software studio, New York City." /></a>
 </p>
 
 <p align="center">
@@ -10,40 +10,40 @@
 
 <br/>
 
-<img src="./assets/h-products.svg" width="100%" alt="01 / Products we build and run" />
+<img src="./assets/h-products.svg?v=3" width="100%" alt="01 / Products we build and run" />
 
 <p align="center">
-  <a href="https://biteme.food"><img src="./assets/card-biteme.svg" width="49%" alt="Biteme: nutrition lessons, AI food scans, native iOS" /></a>
-  <a href="https://sparkum.net"><img src="./assets/card-sparkum.svg" width="49%" alt="Sparkum: social media planning made simple" /></a>
+  <a href="https://biteme.food"><img src="./assets/card-biteme.svg?v=3" width="49%" alt="Biteme: nutrition lessons, AI food scans, native iOS" /></a>
+  <a href="https://sparkum.net"><img src="./assets/card-sparkum.svg?v=3" width="49%" alt="Sparkum: social media planning made simple" /></a>
 </p>
 
-<img src="./assets/h-clients.svg" width="100%" alt="02 / Client work" />
+<img src="./assets/h-clients.svg?v=3" width="100%" alt="02 / Client work" />
 
 <p align="center">
-  <a href="mailto:sales@onyxlabs.tech?subject=LifeLines%20demo"><img src="./assets/card-lifelines.svg" width="49%" alt="LifeLines: HIPAA-compliant RPM platform built for a healthcare client. Demo on request." /></a>
-  <a href="https://floodalert360.com"><img src="./assets/card-floodalert.svg" width="49%" alt="FloodAlert360: cellular water and freeze sensor platform" /></a>
+  <a href="mailto:sales@onyxlabs.tech?subject=LifeLines%20demo"><img src="./assets/card-lifelines.svg?v=3" width="49%" alt="LifeLines: HIPAA-compliant RPM platform built for a healthcare client. Demo on request." /></a>
+  <a href="https://floodalert360.com"><img src="./assets/card-floodalert.svg?v=3" width="49%" alt="FloodAlert360: cellular water and freeze sensor platform" /></a>
 </p>
 <p align="center">
-  <a href="https://cataloniaplates.com"><img src="./assets/card-catalonia.svg" width="49%" alt="Catalonia Plates: e-commerce for Pordamsa tableware in North America" /></a>
-  <a href="mailto:sales@onyxlabs.tech?subject=New%20project"><img src="./assets/card-yours.svg" width="49%" alt="Your project? Tell us what you want to build." /></a>
+  <a href="https://cataloniaplates.com"><img src="./assets/card-catalonia.svg?v=3" width="49%" alt="Catalonia Plates: e-commerce for Pordamsa tableware in North America" /></a>
+  <a href="mailto:sales@onyxlabs.tech?subject=New%20project"><img src="./assets/card-yours.svg?v=3" width="49%" alt="Your project? Tell us what you want to build." /></a>
 </p>
 
-<img src="./assets/h-services.svg" width="100%" alt="03 / What we do" />
+<img src="./assets/h-services.svg?v=3" width="100%" alt="03 / What we do" />
 
 <p align="center">
-  <img src="./assets/services.svg" width="100%" alt="Web apps, mobile apps, backend and APIs, AI features" />
+  <img src="./assets/services.svg?v=3" width="100%" alt="Web apps, mobile apps, backend and APIs, AI features" />
 </p>
 
-<img src="./assets/h-experience.svg" width="100%" alt="04 / Hard problems we've solved" />
+<img src="./assets/h-experience.svg?v=3" width="100%" alt="04 / Hard problems we've solved" />
 
 <p align="center">
-  <img src="./assets/exp-1.svg" width="100%" alt="Healthcare and HIPAA. Billing and payments." />
-  <img src="./assets/exp-2.svg" width="100%" alt="Hardware and IoT. Native iOS and mobile." />
-  <img src="./assets/exp-3.svg" width="100%" alt="AI in production. Voice, SMS and email." />
+  <img src="./assets/exp-1.svg?v=3" width="100%" alt="Healthcare and HIPAA. Billing and payments." />
+  <img src="./assets/exp-2.svg?v=3" width="100%" alt="Hardware and IoT. Native iOS and mobile." />
+  <img src="./assets/exp-3.svg?v=3" width="100%" alt="AI in production. Voice, SMS and email." />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="mailto:sales@onyxlabs.tech"><img src="./assets/footer.svg" width="100%" alt="Have a hard problem? sales@onyxlabs.tech" /></a>
+  <a href="mailto:sales@onyxlabs.tech"><img src="./assets/footer.svg?v=3" width="100%" alt="Have a hard problem? sales@onyxlabs.tech" /></a>
 </p>
